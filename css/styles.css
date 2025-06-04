@@ -38,7 +38,6 @@ h3 {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    text-decoration: none;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -80,15 +79,12 @@ h3 {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.04em;
+     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    border: none;
-    border-radius: 4px;
-    padding: 16px 32px;
-    margin-top: 48px;
-    transition: background-color 0.3s ease;
 }
+    
+
 .hero-button:hover,
 .hero-button:focus {
     background-color: #404bbf;
@@ -110,7 +106,6 @@ h3 {
     background-color: #F4F4FD;
 }
 .team-heading {
-    font-weight: 700;
         font-size: 36px;
         line-height: 1.11111;
         letter-spacing: 0.02em;

@@ -176,14 +176,14 @@ p {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: var(--slate);
+        color: #434455;
 }
 a {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: var(--slate);  
+        color: #434455;  
 }
 h2 {
         font-weight: 700;
@@ -191,7 +191,7 @@ h2 {
         line-height: 1.11111;
         letter-spacing: 0.02em;
         text-align: center;
-        color: var(--navy-blue);
+        color: #2e2f42;
 }
 h1 {
         font-weight: 700;
@@ -199,5 +199,5 @@ h1 {
         line-height: 1.07143;
         letter-spacing: 0.02em;
         text-align: center;
-        color: var(--white);
+        color: #fff;
 }
